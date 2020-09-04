@@ -1,5 +1,7 @@
 # newsBot
 
+[![](https://badgen.net/twitter/follow/bbcnews_bot?icon=twitter)](https://twitter.com/bbcnews_bot)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maya-john&repo=newsBot&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About
